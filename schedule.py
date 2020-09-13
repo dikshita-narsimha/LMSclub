@@ -21,18 +21,18 @@ time5 = "12:10-1:15"
 time6 = "1:15-3:00"
 
 print ("Day\tTime\t\tSubject")
-print (weekday1+"\t"+time1+period1)
-print ("\t\t"+time2+Break)
-print ("\t\t"+time3+period2)
-print ("\t\t"+time4+Lunch)
-print ("\t\t"+time5+period3)
-print ("\t\t"+time6+Independentwork)
+print (weekday1+"\t"+time1+"\t"+period1)
+print ("\t"+time2+"\t"+Break)
+print ("\t"+time3+"\t"+period2)
+print ("\t"+time4+"\t"+Lunch)
+print ("\t"+time5+"\t"+period3)
+print ("\t"+time6+"\t"+Independentwork)
 
-print (weekday2+"\t"+time1+period4)
-print ("\t\t"+time2+Break)
-print ("\t\t"+time3+period5)
-print ("\t\t"+time4+Lunch)
-print ("\t\t"+time5+period6)
-print ("\t\t"+time6+Independentwork)
+print (weekday2+"\t"+time1+"\t"+period4)
+print ("\t"+time2+"\t"+Break)
+print ("\t"+time3+"\t"+period5)
+print ("\t"+time4+"\t"+Lunch)
+print ("\t"+time5+"\t"+period6)
+print ("\t"+time6+"\t"+Independentwork)
 
 
